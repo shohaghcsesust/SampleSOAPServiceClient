@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/journaldev/jaxws/beans/Person.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/PersonServiceImpl.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/PersonServiceImplService.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/PersonServiceImplServiceLocator.java=UTF-8
+encoding//src/com/journaldev/jaxws/service/PersonServiceImplSoapBindingStub.java=UTF-8
